@@ -1,0 +1,12 @@
+LAB_DESCRIPTION="Sebuah sistem koneksi di Labtek V yang menghubungkan beberapa Laboratorium"
+LAB_VERSION=0.0.1
+LAB_AUTHOR="Jonathan Sudibya,Christ Angga Saputra, Rikysamuel Taniman"
+
+pc_pro[0]="A"
+pc_irk[0]="B"
+pc_rpl[0]="C"
+pc_si[0]="D"
+pc_bd[0]="E"
+
+r_pro[0]="A"
+r_pro[
