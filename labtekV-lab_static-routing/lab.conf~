@@ -1,6 +1,8 @@
 LAB_DESCRIPTION="Sebuah sistem koneksi di Labtek V yang menghubungkan beberapa Laboratorium"
-LAB_VERSION=0.0.1
+LAB_VERSION=1 (FINAL)
 LAB_AUTHOR="Jonathan Sudibya,Christ Angga Saputra, Rikysamuel Taniman"
+LAB_EMAIL="13512093@std.stei.itb.ac.id"
+LAB_WEB="https://github.com/ClearingPath/tugas_jarkom_1"
 
 pc_pro[0]="A"
 pc_irk[0]="B"
@@ -9,4 +11,23 @@ pc_si[0]="D"
 pc_bd[0]="E"
 
 r_pro[0]="A"
-r_pro[
+r_pro[1]="F"
+r_pro[2]="J"
+r_pro[3]="K"
+
+r_irk[0]="B"
+r_irk[1]="F"
+r_irk[2]="G"
+
+r_rpl[0]="C"
+r_rpl[1]="H"
+r_rpl[2]="G"
+r_rpl[3]="K"
+
+r_si[0]="D"
+r_si[1]="H"
+r_si[2]="I"
+
+r_bd[0]="E"
+r_bd[1]="I"
+r_bd[2]="J"
