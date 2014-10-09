@@ -1,2 +1,0 @@
-ifconfig eth0 192.168.16.123 netmask 255.255.252.0 broadcast 192.168.19.255
-route add default gw 192.168.16.1
