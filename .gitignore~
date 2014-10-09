@@ -1,6 +1,9 @@
 #ignore *.disk
 *.disk
 
+#add empty folder
+*
+
 #ignore *.conf~
 *.conf~
 
