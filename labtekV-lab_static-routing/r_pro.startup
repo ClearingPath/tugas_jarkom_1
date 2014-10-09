@@ -1,8 +1,8 @@
 ifconfig eth0 192.168.0.1 netmask 255.255.248.0 broadcast 192.168.7.255 up
-ifconfig eth1 100.0.0.1 netmask 255.255.255.252 broadcast 100.0.0.3 up
-ifconfig eth2 100.0.4.2 netmask 255.255.255.252 broadcast 100.0.4.3 up
-ifconfig eth3 100.0.5.1 netmask 255.255.255.252 broadcast 100.0.5.3 up
-route add -net 192.168.16.0 netmask 255.255.252.0 gw 100.0.4.1 dev eth2
-route add -net 192.168.10.0 netmask 255.255.254.0 gw 100.0.5.2 dev eth3
-route add -net 192.168.8.0 netmask 255.255.254.0 gw 100.0.0.2 dev eth1
-route add -net 192.168.12.0 netmask 255.255.254.0 gw 100.0.4.1 dev eth2
+ifconfig eth1 192.168.100.1 netmask 255.255.255.252 broadcast 192.168.100.3 up
+ifconfig eth2 192.168.104.2 netmask 255.255.255.252 broadcast 192.168.104.3 up
+ifconfig eth3 192.168.105.1 netmask 255.255.255.252 broadcast 192.168.105.3 up
+route add -net 192.168.16.0 netmask 255.255.252.0 gw 192.168.104.1 dev eth2
+route add -net 192.168.10.0 netmask 255.255.254.0 gw 192.168.105.2 dev eth3
+route add -net 192.168.8.0 netmask 255.255.254.0 gw 192.168.100.2 dev eth1
+route add -net 192.168.12.0 netmask 255.255.254.0 gw 192.168.104.1 dev eth2

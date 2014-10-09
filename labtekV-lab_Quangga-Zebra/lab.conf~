@@ -1,5 +1,5 @@
 LAB_DESCRIPTION="Sebuah sistem koneksi di Labtek V yang menghubungkan beberapa Laboratorium"
-LAB_VERSION=1.0.0
+LAB_VERSION=1.0.1
 LAB_AUTHOR="Jonathan Sudibya,Christ Angga Saputra, Rikysamuel Taniman"
 LAB_EMAIL="13512093@std.stei.itb.ac.id"
 LAB_WEB="https://github.com/ClearingPath/tugas_jarkom_1"
